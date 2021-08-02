@@ -110,6 +110,5 @@ else:
     print(totalErrorFMC)
                 
 
-#USEMC-SECFMC103  USEMC-SecfMC101 UsemC-SECFMC102 SGPNH-SECFMC102 SgpnH-SECFMC101 usemc-SEcfmc009 usdal-secfmc102 usdal-secfmc101 nlaco-secfmc101 usdal-secfmc001 usdal-secfmc102
-#usdal-secfmc102 usdal-secfmc001
+
 
